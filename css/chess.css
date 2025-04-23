@@ -1,3 +1,7 @@
+h1 {
+  font-family: 'Letterng', sans-serif;
+}
+
 .light.cell {
   border: 1px solid black;
   width: 60px;
