@@ -4,7 +4,6 @@
   height: 60px;
   background-color: #FAF0E6;
   float: left;
-
 }
 
 .dark.cell {
@@ -13,5 +12,8 @@
   height: 60px;
   background-color: #2E8B57;
   float: left;
+}
 
+.clear {
+  clear: both;
 }
