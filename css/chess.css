@@ -1,1 +1,17 @@
+.white {
+  border: 1px solid black;
+  width: 10px;
+  height: 60px;
+  background-color: #FAF0E6;
+  float: left;
 
+}
+
+.black {
+  border: 1px solid black;
+  width: 10px;
+  height: 60px;
+  background-color: #2E8B57;
+  float: left;
+
+}
