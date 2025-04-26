@@ -1,1 +1,23 @@
+h1 {
+  font-family: 'Letterng', sans-serif;
+}
 
+.light.cell {
+  border: 1px solid black;
+  width: 60px;
+  height: 60px;
+  background-color: #FAF0E6;
+  float: left;
+}
+
+.dark.cell {
+  border: 1px solid black;
+  width: 60px;
+  height: 60px;
+  background-color: #2E8B57;
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
