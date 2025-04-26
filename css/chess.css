@@ -31,6 +31,13 @@
  background-color: #FAF0E6;
 }
 
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 body {
  background-image:url(https://images.pexels.com/photos/338936/pexels-photo-338936.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
  background-size: 1920px, 1080px;
