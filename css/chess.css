@@ -1,7 +1,7 @@
-.row{
- position:relative;
- margin-left:10%;
- margin-right:10%;
+.row {
+  position: relative;
+  margin: 0 auto;
+  width: fit-content;
 }
 
 .light.cell {
