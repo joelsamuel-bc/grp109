@@ -46,10 +46,10 @@ body {
 }
 
 #container {
- margin-top:20%;
- margin-left:10%;
- margin-right:10%;
- margin-bottom:5%;
+  margin: 0 auto;
+  margin-top: 20%;
+  margin-bottom: 5%;
+  width: fit-content;
 }
 
 #title {
